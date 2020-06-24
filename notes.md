@@ -10,6 +10,8 @@
 
     _optional_: get data
     > dvc get https://github.com/iterative/dataset-registry get-started/data.xml -o data/data.xml
+      
+      In this repo, this will be fetched from s3, because of the contents of `.dvc/config`
 
     > dvc add data/data.xml
 
