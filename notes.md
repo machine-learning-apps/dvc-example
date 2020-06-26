@@ -52,3 +52,6 @@
 
 You can run data pipelines in DVC which is focused on [reproducability](https://dvc.org/doc/start/data-pipelines#data-pipelines).
 
+## Git Hooks
+
+TODO
